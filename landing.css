@@ -135,6 +135,7 @@
     bottom: 12%;
     left: 12%;
     color: white;
+    text-shadow: 10px 10px 20px black;
 }
 
 .image-text-2 {
@@ -142,6 +143,7 @@
     bottom: 5%;
     left: 12%;
     color: white;
+    text-shadow: 10px 10px 20px black;
 }
 
 /* Footer Section */
